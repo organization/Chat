@@ -1,7 +1,7 @@
 # Chat
 So many stuff for chatting!
 
-##License
+##UnLicense
 
 ```
 This is free and unencumbered software released into the public domain.
